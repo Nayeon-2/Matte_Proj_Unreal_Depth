@@ -1,0 +1,22 @@
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+
+# Plugin build output (keep the prebuilt Binaries so the editor runs without compiling)
+Plugins/*/Intermediate/
+Plugins/*/Binaries/**/*.pdb
+
+# Local tool caches
+Plugins/*/Source/graphify-out/
+
+# Backups made by coding agents
+.codex_backup_*/
+.claude_backup_*/
