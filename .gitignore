@@ -20,3 +20,6 @@ Plugins/*/Source/graphify-out/
 # Backups made by coding agents
 .codex_backup_*/
 .claude_backup_*/
+
+# Large Fab assets (re-download from Fab; too big for GitHub LFS)
+Content/GroundFire01/
